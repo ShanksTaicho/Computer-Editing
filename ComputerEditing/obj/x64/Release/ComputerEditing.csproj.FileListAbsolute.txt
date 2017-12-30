@@ -1,0 +1,3 @@
+C:\Users\Jitem\Desktop\ComputerEditing\KlasorlemeProgrami\obj\x64\Release\ComputerEditing.Form1.resources
+C:\Users\Jitem\Desktop\ComputerEditing\KlasorlemeProgrami\obj\x64\Release\ComputerEditing.Properties.Resources.resources
+C:\Users\Jitem\Desktop\ComputerEditing\KlasorlemeProgrami\obj\x64\Release\ComputerEditing.csproj.GenerateResource.Cache

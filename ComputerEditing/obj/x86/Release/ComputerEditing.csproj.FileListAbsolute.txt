@@ -1,0 +1,4 @@
+C:\Users\Jitem\Desktop\ComputerEditing\KlasorlemeProgrami\obj\x86\Release\ComputerEditing.csprojResolveAssemblyReference.cache
+C:\Users\Jitem\Desktop\ComputerEditing\KlasorlemeProgrami\obj\x86\Release\ComputerEditing.Form1.resources
+C:\Users\Jitem\Desktop\ComputerEditing\KlasorlemeProgrami\obj\x86\Release\ComputerEditing.Properties.Resources.resources
+C:\Users\Jitem\Desktop\ComputerEditing\KlasorlemeProgrami\obj\x86\Release\ComputerEditing.csproj.GenerateResource.Cache

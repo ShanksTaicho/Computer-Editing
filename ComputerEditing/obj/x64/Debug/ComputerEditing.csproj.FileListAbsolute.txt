@@ -1,0 +1,23 @@
+C:\Users\Jitem\Desktop\ComputerEditing\KlasorlemeProgrami\obj\x64\Debug\ComputerEditing.Form1.resources
+C:\Users\Jitem\Desktop\ComputerEditing\KlasorlemeProgrami\obj\x64\Debug\ComputerEditing.Properties.Resources.resources
+C:\Users\Jitem\Desktop\ComputerEditing\KlasorlemeProgrami\obj\x64\Debug\ComputerEditing.csproj.GenerateResource.Cache
+C:\Users\Jitem\Desktop\ComputerEditing\KlasorlemeProgrami\bin\x64\Debug\Computer Editing.exe
+C:\Users\Jitem\Desktop\ComputerEditing\KlasorlemeProgrami\bin\x64\Debug\Computer Editing.pdb
+C:\Users\Jitem\Desktop\ComputerEditing\KlasorlemeProgrami\obj\x64\Debug\Computer Editing.exe
+C:\Users\Jitem\Desktop\ComputerEditing\KlasorlemeProgrami\obj\x64\Debug\Computer Editing.pdb
+C:\Users\Jitem\Desktop\ComputerEditing\ComputerEditing\obj\x64\Debug\Computer Editing.exe
+C:\Users\Jitem\Desktop\ComputerEditing\ComputerEditing\obj\x64\Debug\Computer Editing.pdb
+C:\Users\Jitem\Desktop\ComputerEditing\ComputerEditing\bin\x64\Debug\Computer Editing.exe
+C:\Users\Jitem\Desktop\ComputerEditing\ComputerEditing\bin\x64\Debug\Computer Editing.pdb
+C:\Users\Jitem\Desktop\ComputerEditing\ComputerEditing\obj\x64\Debug\ComputerEditing.csprojResolveAssemblyReference.cache
+C:\Users\Jitem\Desktop\ComputerEditing\ComputerEditing\obj\x64\Debug\ComputerEditing.Form1.resources
+C:\Users\Jitem\Desktop\ComputerEditing\ComputerEditing\obj\x64\Debug\ComputerEditing.Properties.Resources.resources
+C:\Users\Jitem\Desktop\ComputerEditing\ComputerEditing\obj\x64\Debug\ComputerEditing.csproj.GenerateResource.Cache
+C:\Users\Jitem\Desktop\C# Denemeler\ComputerEditing\ComputerEditing\obj\x64\Debug\Computer Editing.exe
+C:\Users\Jitem\Desktop\C# Denemeler\ComputerEditing\ComputerEditing\obj\x64\Debug\Computer Editing.pdb
+C:\Users\Jitem\Desktop\C# Denemeler\ComputerEditing\ComputerEditing\bin\x64\Debug\Computer Editing.exe
+C:\Users\Jitem\Desktop\C# Denemeler\ComputerEditing\ComputerEditing\bin\x64\Debug\Computer Editing.pdb
+C:\Users\Jitem\Desktop\C# Denemeler\ComputerEditing\ComputerEditing\obj\x64\Debug\ComputerEditing.csprojResolveAssemblyReference.cache
+C:\Users\Jitem\Desktop\C# Denemeler\ComputerEditing\ComputerEditing\obj\x64\Debug\ComputerEditing.Form1.resources
+C:\Users\Jitem\Desktop\C# Denemeler\ComputerEditing\ComputerEditing\obj\x64\Debug\ComputerEditing.Properties.Resources.resources
+C:\Users\Jitem\Desktop\C# Denemeler\ComputerEditing\ComputerEditing\obj\x64\Debug\ComputerEditing.csproj.GenerateResource.Cache
